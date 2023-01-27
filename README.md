@@ -7,7 +7,7 @@ This ad-blocker script for Tampermonkey won't trigger an adblock-block / adblock
 This script is not a generic solution and has to be configured for every website it should clean up. I don't provide configs for pages, just use your browser developer-tools to find the elements you want remove or click.
 
 # Installing
-To install the script for Tampermonkey, click [here]
+To install the script for Tampermonkey, click [here](https://github.com/Aholicknight/mf-adblock/raw/main/mf-adblock.user.js)
 
 
 # Credit
