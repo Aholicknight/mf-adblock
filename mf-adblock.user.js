@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  a basic anti-adblock workaround that can remove or click elements on a website
-// @author       You
+// @author       DerFichtl
 // @match        https://*/*
 // @grant        none
 // ==/UserScript==
